@@ -1,0 +1,6 @@
+table,th,td{border:1px solid black;border-collapse: collapse;}
+th{ text-align: center;}
+td{text-align:initial;}
+td:nth-child(2) {color:rgba(54, 60, 244, 0.852)}
+td{text-decoration: solid;}
+td{padding: 5px;}
